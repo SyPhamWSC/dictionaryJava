@@ -1,1 +1,1 @@
-# dictionaryJava
+# dictionary
